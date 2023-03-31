@@ -1,0 +1,12 @@
+[
+  {
+    "name": "some_whale",
+    "address": "0x1e7016f7c23859d097668c27b72c170ed7129a10",
+    "coins": [
+      {
+        "name": "USDT",
+        "contract": "0x55d398326f99059ff775485246999027b3197955"
+      }
+    ]
+  },
+]
